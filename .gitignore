@@ -1,0 +1,53 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# dependencies / builds
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# model weights and caches
+.model-cache/
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# datasets (large / licensed) - keep folder skeleton only
+dataset/raw/*
+dataset/products/*
+dataset/processed/*
+dataset/uploads/*
+dataset/evaluation/queries/
+!dataset/**/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Include the custom generated fashion dataset
+!dataset/raw/generated-dresses/
+!dataset/raw/generated-dresses/**
+# Include only the custom generated fashion dataset
+!dataset/raw/generated-dresses/
+dataset/raw/generated-dresses/*
+!dataset/raw/generated-dresses/images.csv
+!dataset/raw/generated-dresses/plan.json
+!dataset/raw/generated-dresses/rejected.json
+!dataset/raw/generated-dresses/images_original/
+dataset/raw/generated-dresses/images_original/*
+!dataset/raw/generated-dresses/images_original/*.jpg
+
+# Local database backups
+backups/
+*.dump
+*.sql.gz

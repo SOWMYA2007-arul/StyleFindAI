@@ -1,0 +1,1627 @@
+[
+ {
+  "image": "dress-0000",
+  "reason": "background not plain white (mean 211, std 53)",
+  "prompt": "e-commerce product photo of a short-sleeved brown block print crepe midi slip dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0001",
+  "reason": "background not plain white (mean 177, std 66)",
+  "prompt": "e-commerce flat lay photo of a sleeveless royal blue abstract print jersey knit ankle-length bodycon dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0002",
+  "reason": "background not plain white (mean 172, std 39)",
+  "prompt": "product photo of a short-sleeved off-white block print denim flowing maxi dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0003",
+  "reason": "background not plain white (mean 204, std 44)",
+  "prompt": "e-commerce product photo of a long-sleeved yellow polka dot chiffon midi button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0005",
+  "reason": "background not plain white (mean 194, std 40)",
+  "prompt": "product photo of a short-sleeved peach geometric print rayon ankle-length kaftan dress with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0006",
+  "reason": "background not plain white (mean 170, std 54)",
+  "prompt": "e-commerce product photo of a sleeveless beige floral print cotton ankle-length smocked sundress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0010",
+  "reason": "background not plain white (mean 221, std 30)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve rose pink and white striped cotton knee-length peplum dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0011",
+  "reason": "background not plain white (mean 205, std 49)",
+  "prompt": "e-commerce product photo of a short-sleeved mustard yellow block print denim midi skater dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0013",
+  "reason": "background not plain white (mean 172, std 40)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved plain sky blue chiffon knee-length anarkali gown with a flared skirt with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0014",
+  "reason": "background not plain white (mean 212, std 28)",
+  "prompt": "product photo of a sleeveless olive green geometric print linen ankle-length A-line dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0015",
+  "reason": "background not plain white (mean 170, std 85)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve burgundy polka dot georgette ankle-length sheath dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0017",
+  "reason": "background not plain white (mean 184, std 28)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved magenta embroidered rayon knee-length wrap dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0020",
+  "reason": "background not plain white (mean 176, std 44)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved grey floral print satin knee-length shift dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0021",
+  "reason": "background not plain white (mean 224, std 44)",
+  "prompt": "e-commerce product photo of a sleeveless pastel pink paisley print velvet ankle-length fit and flare dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0023",
+  "reason": "background not plain white (mean 215, std 49)",
+  "prompt": "e-commerce product photo of a long-sleeved teal and white striped jersey knit midi kaftan dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0024",
+  "reason": "background not plain white (mean 190, std 75)",
+  "prompt": "e-commerce product photo of a short-sleeved maroon floral print cotton ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0025",
+  "reason": "background not plain white (mean 178, std 40)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve navy blue paisley print linen midi anarkali gown with a flared skirt with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0029",
+  "reason": "background not plain white (mean 236, std 33)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve mustard yellow polka dot rayon midi bodycon dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0033",
+  "reason": "background not plain white (mean 208, std 28)",
+  "prompt": "e-commerce product photo of a sleeveless plain lavender linen ankle-length slip dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0034",
+  "reason": "background not plain white (mean 159, std 67)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve olive green geometric print georgette knee-length A-line dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0035",
+  "reason": "background not plain white (mean 214, std 31)",
+  "prompt": "e-commerce product photo of a sleeveless maroon and white striped jersey knit midi anarkali gown with a flared skirt with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0037",
+  "reason": "background not plain white (mean 185, std 63)",
+  "prompt": "product photo of a three-quarter sleeve peach polka dot crepe knee-length tiered ruffle dress with a square neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0039",
+  "reason": "background not plain white (mean 192, std 28)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved mint green textured denim knee-length bodycon dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0040",
+  "reason": "background not plain white (mean 202, std 57)",
+  "prompt": "e-commerce product photo of a short-sleeved bottle green and white gingham check satin midi button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0042",
+  "reason": "background not plain white (mean 175, std 38)",
+  "prompt": "e-commerce flat lay photo of a sleeveless yellow paisley print linen midi wrap dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0045",
+  "reason": "looks like 'a photo of a shirt, trousers or a skirt' (0.69)",
+  "prompt": "e-commerce flat lay photo of a sleeveless burgundy and white striped linen knee-length shift dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0047",
+  "reason": "background not plain white (mean 170, std 50)",
+  "prompt": "product photo of a short-sleeved magenta and white gingham check cotton ankle-length kaftan dress with a square neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0052",
+  "reason": "background not plain white (mean 205, std 53)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve sky blue abstract print georgette knee-length peplum dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0053",
+  "reason": "background not plain white (mean 193, std 28)",
+  "prompt": "e-commerce product photo of a short-sleeved mauve textured linen ankle-length A-line dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0054",
+  "reason": "background not plain white (mean 165, std 32)",
+  "prompt": "product photo of a long-sleeved green floral print chiffon midi anarkali gown with a flared skirt with a boat neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0055",
+  "reason": "background not plain white (mean 161, std 29)",
+  "prompt": "product photo of a sleeveless pastel pink floral print jersey knit ankle-length skater dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0056",
+  "reason": "background not plain white (mean 202, std 37)",
+  "prompt": "product photo of a sleeveless off-white geometric print denim flowing maxi dress with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0057",
+  "reason": "background not plain white (mean 201, std 26)",
+  "prompt": "e-commerce product photo of a short-sleeved blue embroidered rayon knee-length bodycon dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0058",
+  "reason": "background not plain white (mean 167, std 67)",
+  "prompt": "product photo of a three-quarter sleeve lavender block print satin ankle-length fit and flare dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0060",
+  "reason": "background not plain white (mean 165, std 51)",
+  "prompt": "e-commerce flat lay photo of a sleeveless purple and white striped cotton knee-length wrap dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0061",
+  "reason": "background not plain white (mean 188, std 47)",
+  "prompt": "e-commerce product photo of a short-sleeved peach block print jersey knit midi button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0062",
+  "reason": "background not plain white (mean 206, std 42)",
+  "prompt": "e-commerce flat lay photo of a sleeveless grey and white gingham check wool knit ankle-length knitted sweater dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0064",
+  "reason": "background not plain white (mean 211, std 30)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve burgundy textured georgette midi kaftan dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0065",
+  "reason": "background not plain white (mean 171, std 84)",
+  "prompt": "e-commerce flat lay photo of a sleeveless magenta abstract print denim ankle-length sheath dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0066",
+  "reason": "background not plain white (mean 165, std 26)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved pastel pink and navy blue gingham check georgette midi anarkali gown with a flared skirt with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0067",
+  "reason": "background not plain white (mean 176, std 43)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved coral polka dot crepe ankle-length A-line dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0068",
+  "reason": "background not plain white (mean 176, std 61)",
+  "prompt": "e-commerce product photo of a sleeveless rose pink embroidered satin knee-length smocked sundress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0069",
+  "reason": "background not plain white (mean 199, std 44)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve mint green abstract print wool knit knee-length knitted sweater dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0070",
+  "reason": "background not plain white (mean 154, std 61)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved orange floral print georgette ankle-length tiered ruffle dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0072",
+  "reason": "background not plain white (mean 208, std 64)",
+  "prompt": "e-commerce product photo of a short-sleeved teal geometric print rayon ankle-length shift dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0076",
+  "reason": "background not plain white (mean 224, std 44)",
+  "prompt": "e-commerce product photo of a short-sleeved yellow and navy blue striped cotton ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0078",
+  "reason": "background not plain white (mean 179, std 65)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved maroon embroidered satin ankle-length peplum dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0080",
+  "reason": "background not plain white (mean 202, std 28)",
+  "prompt": "e-commerce product photo of a sleeveless mustard yellow floral print denim knee-length bodycon dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0082",
+  "reason": "background not plain white (mean 199, std 53)",
+  "prompt": "e-commerce product photo of a short-sleeved black and white gingham check crepe knee-length anarkali gown with a flared skirt with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0083",
+  "reason": "background not plain white (mean 195, std 72)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve royal blue block print jersey knit ankle-length peplum dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0084",
+  "reason": "background not plain white (mean 202, std 52)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve sky blue and navy blue striped cotton midi wrap dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0092",
+  "reason": "background not plain white (mean 237, std 40)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve burgundy and white gingham check jersey knit ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0093",
+  "reason": "background not plain white (mean 204, std 24)",
+  "prompt": "e-commerce product photo of a sleeveless bottle green abstract print denim ankle-length skater dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0094",
+  "reason": "background not plain white (mean 216, std 42)",
+  "prompt": "e-commerce product photo of a short-sleeved mint green geometric print linen knee-length shift dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0096",
+  "reason": "background not plain white (mean 162, std 45)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved grey textured velvet midi fit and flare dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0097",
+  "reason": "background not plain white (mean 184, std 44)",
+  "prompt": "e-commerce flat lay photo of a sleeveless plain orange georgette ankle-length skater dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0099",
+  "reason": "background not plain white (mean 215, std 57)",
+  "prompt": "product photo of a long-sleeved brown polka dot rayon knee-length shift dress with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0100",
+  "reason": "background not plain white (mean 166, std 19)",
+  "prompt": "e-commerce flat lay photo of a sleeveless peach textured wool knit ankle-length knitted sweater dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0101",
+  "reason": "background not plain white (mean 172, std 33)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved white floral print crepe midi smocked sundress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0102",
+  "reason": "background not plain white (mean 153, std 27)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved plain lavender linen midi kaftan dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0103",
+  "reason": "background not plain white (mean 187, std 49)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve blue and white gingham check cotton ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0105",
+  "reason": "background not plain white (mean 212, std 43)",
+  "prompt": "product photo of a long-sleeved purple block print jersey knit midi peplum dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0107",
+  "reason": "background not plain white (mean 155, std 38)",
+  "prompt": "e-commerce product photo of a short-sleeved magenta embroidered satin knee-length anarkali gown with a flared skirt with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0108",
+  "reason": "background not plain white (mean 202, std 55)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve sky blue and navy blue striped cotton knee-length bodycon dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0109",
+  "reason": "background not plain white (mean 182, std 74)",
+  "prompt": "e-commerce product photo of a long-sleeved red abstract print denim midi sheath dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0111",
+  "reason": "background not plain white (mean 168, std 26)",
+  "prompt": "e-commerce product photo of a sleeveless yellow textured satin ankle-length tiered ruffle dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0113",
+  "reason": "background not plain white (mean 244, std 32)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve navy blue abstract print cotton knee-length slip dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0115",
+  "reason": "background not plain white (mean 168, std 48)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved mauve and white striped denim midi kaftan dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0116",
+  "reason": "background not plain white (mean 181, std 79)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve magenta floral print velvet ankle-length A-line dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0117",
+  "reason": "background not plain white (mean 234, std 39)",
+  "prompt": "e-commerce product photo of a sleeveless blue block print crepe ankle-length skater dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0118",
+  "reason": "background not plain white (mean 230, std 38)",
+  "prompt": "product photo of a short-sleeved navy blue geometric print georgette midi fit and flare dress with a square neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0124",
+  "reason": "background not plain white (mean 232, std 49)",
+  "prompt": "e-commerce product photo of a sleeveless maroon floral print rayon ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0125",
+  "reason": "background not plain white (mean 241, std 34)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve olive green block print jersey knit midi bodycon dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0129",
+  "reason": "background not plain white (mean 216, std 45)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved green and white striped crepe midi sheath dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0130",
+  "reason": "background not plain white (mean 156, std 48)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve mauve textured rayon knee-length skater dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0131",
+  "reason": "background not plain white (mean 205, std 62)",
+  "prompt": "e-commerce product photo of a sleeveless black and white gingham check cotton ankle-length A-line dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0133",
+  "reason": "background not plain white (mean 180, std 27)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved sky blue block print linen midi shift dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0135",
+  "reason": "background not plain white (mean 185, std 30)",
+  "prompt": "product photo of a short-sleeved white textured jersey knit knee-length slip dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0139",
+  "reason": "background not plain white (mean 230, std 39)",
+  "prompt": "e-commerce product photo of a long-sleeved rose pink embroidered denim midi bodycon dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0140",
+  "reason": "background not plain white (mean 192, std 20)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve purple polka dot velvet knee-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0141",
+  "reason": "background not plain white (mean 152, std 55)",
+  "prompt": "e-commerce flat lay photo of a sleeveless mustard yellow paisley print rayon knee-length kaftan dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0142",
+  "reason": "background not plain white (mean 184, std 23)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved off-white floral print satin midi smocked sundress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0143",
+  "reason": "background not plain white (mean 193, std 59)",
+  "prompt": "e-commerce product photo of a short-sleeved burgundy embroidered jersey knit flowing maxi dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0144",
+  "reason": "background not plain white (mean 155, std 27)",
+  "prompt": "e-commerce flat lay photo of a sleeveless plain royal blue crepe knee-length sheath dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0145",
+  "reason": "background not plain white (mean 159, std 61)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve bottle green textured cotton midi bodycon dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0146",
+  "reason": "background not plain white (mean 169, std 24)",
+  "prompt": "product photo of a long-sleeved teal abstract print georgette ankle-length peplum dress with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0147",
+  "reason": "background not plain white (mean 131, std 24)",
+  "prompt": "product photo of a short-sleeved grey and white gingham check chiffon knee-length anarkali gown with a flared skirt with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0148",
+  "reason": "background not plain white (mean 211, std 55)",
+  "prompt": "e-commerce product photo of a short-sleeved beige floral print linen midi skater dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0149",
+  "reason": "background not plain white (mean 166, std 23)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved mauve embroidered wool knit ankle-length knitted sweater dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0152",
+  "reason": "background not plain white (mean 195, std 33)",
+  "prompt": "e-commerce flat lay photo of a sleeveless red paisley print cotton midi shift dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0153",
+  "reason": "background not plain white (mean 237, std 36)",
+  "prompt": "e-commerce product photo of a short-sleeved off-white textured velvet knee-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0155",
+  "reason": "background not plain white (mean 220, std 42)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve white block print jersey knit midi wrap dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0156",
+  "reason": "background not plain white (mean 182, std 17)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved green textured chiffon flowing maxi dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0158",
+  "reason": "background not plain white (mean 194, std 31)",
+  "prompt": "e-commerce product photo of a sleeveless mint green and navy blue gingham check denim knee-length smocked sundress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0159",
+  "reason": "background not plain white (mean 243, std 31)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve pastel pink polka dot crepe midi tiered ruffle dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0162",
+  "reason": "background not plain white (mean 204, std 44)",
+  "prompt": "product photo of a three-quarter sleeve brown and white striped denim ankle-length wrap dress with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0167",
+  "reason": "background not plain white (mean 232, std 39)",
+  "prompt": "e-commerce product photo of a sleeveless blue and white striped linen midi anarkali gown with a flared skirt with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0168",
+  "reason": "background not plain white (mean 193, std 42)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve rose pink floral print crepe flowing maxi dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0171",
+  "reason": "background not plain white (mean 173, std 67)",
+  "prompt": "e-commerce product photo of a short-sleeved olive green block print cotton ankle-length skater dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0174",
+  "reason": "background not plain white (mean 213, std 64)",
+  "prompt": "product photo of a sleeveless red abstract print denim ankle-length peplum dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0176",
+  "reason": "background not plain white (mean 180, std 66)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve maroon abstract print georgette midi slip dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0177",
+  "reason": "background not plain white (mean 205, std 27)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve purple paisley print velvet ankle-length anarkali gown with a flared skirt with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0179",
+  "reason": "background not plain white (mean 220, std 25)",
+  "prompt": "e-commerce product photo of a short-sleeved plain pastel pink rayon midi button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0180",
+  "reason": "background not plain white (mean 198, std 57)",
+  "prompt": "product photo of a short-sleeved burgundy and white striped linen ankle-length tiered ruffle dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0181",
+  "reason": "background not plain white (mean 177, std 37)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved blue and white gingham check denim knee-length peplum dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0182",
+  "reason": "background not plain white (mean 227, std 34)",
+  "prompt": "e-commerce product photo of a sleeveless mauve polka dot cotton midi bodycon dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0183",
+  "reason": "background not plain white (mean 203, std 58)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve teal block print chiffon knee-length wrap dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0185",
+  "reason": "background not plain white (mean 127, std 70)",
+  "prompt": "e-commerce product photo of a sleeveless royal blue geometric print velvet midi A-line dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0186",
+  "reason": "background not plain white (mean 191, std 41)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved green embroidered crepe midi skater dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0187",
+  "reason": "background not plain white (mean 159, std 56)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve magenta textured jersey knit ankle-length fit and flare dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0188",
+  "reason": "background not plain white (mean 188, std 34)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved beige floral print rayon knee-length smocked sundress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0190",
+  "reason": "background not plain white (mean 206, std 22)",
+  "prompt": "e-commerce product photo of a sleeveless white and navy blue gingham check wool knit midi knitted sweater dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0191",
+  "reason": "background not plain white (mean 222, std 65)",
+  "prompt": "e-commerce product photo of a long-sleeved bottle green block print velvet knee-length sheath dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0192",
+  "reason": "background not plain white (mean 186, std 72)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved black and white striped georgette ankle-length A-line dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0194",
+  "reason": "background not plain white (mean 243, std 34)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve off-white geometric print linen midi bodycon dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0195",
+  "reason": "background not plain white (mean 171, std 24)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved plain navy blue crepe midi anarkali gown with a flared skirt with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0196",
+  "reason": "background not plain white (mean 144, std 47)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve mustard yellow paisley print cotton ankle-length wrap dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0198",
+  "reason": "background not plain white (mean 200, std 58)",
+  "prompt": "e-commerce flat lay photo of a sleeveless plain orange wool knit midi knitted sweater dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0200",
+  "reason": "background not plain white (mean 196, std 26)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved grey and white gingham check rayon ankle-length button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0202",
+  "reason": "background not plain white (mean 169, std 44)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved yellow block print cotton knee-length skater dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0205",
+  "reason": "background not plain white (mean 212, std 15)",
+  "prompt": "e-commerce product photo of a short-sleeved off-white geometric print satin ankle-length slip dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0207",
+  "reason": "background not plain white (mean 239, std 34)",
+  "prompt": "e-commerce product photo of a long-sleeved white floral print rayon midi fit and flare dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0210",
+  "reason": "background not plain white (mean 233, std 30)",
+  "prompt": "e-commerce product photo of a sleeveless mauve textured linen midi shift dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0211",
+  "reason": "background not plain white (mean 179, std 40)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved sky blue and navy blue gingham check cotton ankle-length peplum dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0213",
+  "reason": "background not plain white (mean 171, std 59)",
+  "prompt": "e-commerce flat lay photo of a sleeveless rose pink embroidered velvet knee-length fit and flare dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0214",
+  "reason": "background not plain white (mean 162, std 72)",
+  "prompt": "product photo of a short-sleeved navy blue block print satin midi A-line dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0216",
+  "reason": "background not plain white (mean 162, std 49)",
+  "prompt": "e-commerce flat lay photo of a sleeveless black paisley print chiffon midi anarkali gown with a flared skirt with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0217",
+  "reason": "background not plain white (mean 184, std 27)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved green and white striped crepe ankle-length kaftan dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0219",
+  "reason": "background not plain white (mean 221, std 30)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve pastel pink polka dot denim ankle-length wrap dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0220",
+  "reason": "background not plain white (mean 196, std 17)",
+  "prompt": "e-commerce flat lay photo of a sleeveless teal geometric print jersey knit knee-length slip dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0222",
+  "reason": "background not plain white (mean 156, std 25)",
+  "prompt": "product photo of a short-sleeved maroon embroidered satin knee-length skater dress with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0223",
+  "reason": "background not plain white (mean 199, std 49)",
+  "prompt": "product photo of a long-sleeved peach and navy blue gingham check wool knit midi knitted sweater dress with a square neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0226",
+  "reason": "background not plain white (mean 207, std 42)",
+  "prompt": "e-commerce flat lay photo of a sleeveless yellow paisley print chiffon ankle-length smocked sundress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0227",
+  "reason": "background not plain white (mean 169, std 80)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved burgundy polka dot denim midi shift dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0234",
+  "reason": "background not plain white (mean 229, std 28)",
+  "prompt": "e-commerce product photo of a short-sleeved plain sky blue jersey knit knee-length sheath dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0236",
+  "reason": "background not plain white (mean 225, std 29)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve lavender paisley print rayon midi kaftan dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0237",
+  "reason": "background not plain white (mean 157, std 31)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved olive green block print georgette ankle-length anarkali gown with a flared skirt with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0238",
+  "reason": "background not plain white (mean 167, std 33)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved coral and white striped linen knee-length wrap dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0239",
+  "reason": "background not plain white (mean 164, std 70)",
+  "prompt": "e-commerce product photo of a sleeveless navy blue geometric print crepe midi A-line dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0241",
+  "reason": "background not plain white (mean 200, std 58)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve orange embroidered cotton midi fit and flare dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0243",
+  "reason": "background not plain white (mean 219, std 54)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved red abstract print georgette ankle-length A-line dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0244",
+  "reason": "background not plain white (mean 242, std 32)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve burgundy polka dot denim knee-length wrap dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0246",
+  "reason": "background not plain white (mean 229, std 36)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved black textured chiffon knee-length skater dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0247",
+  "reason": "background not plain white (mean 182, std 43)",
+  "prompt": "product photo of a short-sleeved rose pink block print velvet ankle-length kaftan dress with a square neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0250",
+  "reason": "background not plain white (mean 177, std 46)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved mauve and white striped crepe knee-length smocked sundress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0251",
+  "reason": "background not plain white (mean 149, std 52)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved mustard yellow floral print satin midi bodycon dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0252",
+  "reason": "background not plain white (mean 170, std 32)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve bottle green embroidered cotton midi anarkali gown with a flared skirt with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0255",
+  "reason": "background not plain white (mean 166, std 31)",
+  "prompt": "e-commerce flat lay photo of a sleeveless plain mint green velvet midi button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0256",
+  "reason": "background not plain white (mean 210, std 30)",
+  "prompt": "e-commerce product photo of a sleeveless beige geometric print chiffon knee-length sheath dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0257",
+  "reason": "background not plain white (mean 175, std 21)",
+  "prompt": "e-commerce product photo of a short-sleeved purple embroidered rayon ankle-length smocked sundress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0258",
+  "reason": "background not plain white (mean 186, std 19)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve teal block print jersey knit ankle-length fit and flare dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0259",
+  "reason": "background not plain white (mean 221, std 55)",
+  "prompt": "e-commerce product photo of a long-sleeved blue textured denim midi bodycon dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0261",
+  "reason": "background not plain white (mean 148, std 82)",
+  "prompt": "e-commerce flat lay photo of a sleeveless green paisley print velvet knee-length shift dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0264",
+  "reason": "background not plain white (mean 206, std 51)",
+  "prompt": "product photo of a short-sleeved mauve polka dot jersey knit ankle-length kaftan dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0267",
+  "reason": "background not plain white (mean 197, std 44)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve grey embroidered cotton ankle-length skater dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0269",
+  "reason": "background not plain white (mean 150, std 94)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved maroon textured wool knit knee-length knitted sweater dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0271",
+  "reason": "background not plain white (mean 158, std 34)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve peach and navy blue gingham check linen midi anarkali gown with a flared skirt with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0272",
+  "reason": "background not plain white (mean 216, std 45)",
+  "prompt": "e-commerce product photo of a long-sleeved pastel pink abstract print rayon knee-length tiered ruffle dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0274",
+  "reason": "background not plain white (mean 198, std 64)",
+  "prompt": "e-commerce product photo of a sleeveless orange geometric print velvet knee-length smocked sundress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0275",
+  "reason": "background not plain white (mean 211, std 40)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved beige block print crepe flowing maxi dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0276",
+  "reason": "background not plain white (mean 154, std 25)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved navy blue textured georgette knee-length A-line dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0277",
+  "reason": "background not plain white (mean 148, std 42)",
+  "prompt": "e-commerce flat lay photo of a sleeveless sky blue embroidered denim ankle-length anarkali gown with a flared skirt with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0278",
+  "reason": "background not plain white (mean 232, std 43)",
+  "prompt": "e-commerce product photo of a short-sleeved off-white and navy blue gingham check jersey knit midi peplum dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0280",
+  "reason": "background not plain white (mean 195, std 39)",
+  "prompt": "product photo of a three-quarter sleeve rose pink abstract print georgette ankle-length wrap dress with a boat neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0281",
+  "reason": "background not plain white (mean 160, std 43)",
+  "prompt": "e-commerce flat lay photo of a sleeveless coral paisley print satin midi sheath dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0282",
+  "reason": "background not plain white (mean 212, std 48)",
+  "prompt": "e-commerce product photo of a short-sleeved mint green floral print crepe knee-length slip dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0283",
+  "reason": "background not plain white (mean 229, std 48)",
+  "prompt": "e-commerce product photo of a long-sleeved mustard yellow geometric print jersey knit midi fit and flare dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0284",
+  "reason": "background not plain white (mean 218, std 34)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve plain yellow velvet ankle-length skater dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0285",
+  "reason": "background not plain white (mean 176, std 64)",
+  "prompt": "e-commerce product photo of a short-sleeved olive green polka dot cotton ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0286",
+  "reason": "background not plain white (mean 239, std 38)",
+  "prompt": "e-commerce product photo of a long-sleeved lavender embroidered chiffon knee-length shift dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0293",
+  "reason": "background not plain white (mean 202, std 44)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved peach abstract print crepe knee-length tiered ruffle dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0296",
+  "reason": "background not plain white (mean 126, std 59)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved olive green block print linen ankle-length bodycon dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0297",
+  "reason": "background not plain white (mean 202, std 29)",
+  "prompt": "e-commerce product photo of a sleeveless sky blue and navy blue gingham check linen midi slip dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0298",
+  "reason": "background not plain white (mean 205, std 47)",
+  "prompt": "e-commerce flat lay photo of a sleeveless pastel pink paisley print jersey knit ankle-length button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0299",
+  "reason": "background not plain white (mean 204, std 61)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve magenta geometric print georgette knee-length skater dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0300",
+  "reason": "background not plain white (mean 184, std 45)",
+  "prompt": "e-commerce flat lay photo of a sleeveless yellow polka dot georgette midi sheath dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0301",
+  "reason": "background not plain white (mean 207, std 52)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve beige and navy blue striped jersey knit knee-length smocked sundress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0304",
+  "reason": "background not plain white (mean 189, std 42)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve lavender block print rayon ankle-length sheath dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0305",
+  "reason": "background not plain white (mean 189, std 63)",
+  "prompt": "product photo of a short-sleeved plain mustard yellow denim knee-length kaftan dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0306",
+  "reason": "background not plain white (mean 190, std 69)",
+  "prompt": "e-commerce product photo of a long-sleeved red embroidered satin ankle-length A-line dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0307",
+  "reason": "background not plain white (mean 153, std 23)",
+  "prompt": "e-commerce flat lay photo of a sleeveless off-white textured chiffon flowing maxi dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0308",
+  "reason": "background not plain white (mean 149, std 80)",
+  "prompt": "e-commerce product photo of a short-sleeved burgundy paisley print linen knee-length shift dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0309",
+  "reason": "background not plain white (mean 213, std 41)",
+  "prompt": "product photo of a long-sleeved plain green velvet midi bodycon dress with a square neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0311",
+  "reason": "background not plain white (mean 185, std 24)",
+  "prompt": "e-commerce product photo of a sleeveless bottle green geometric print chiffon knee-length anarkali gown with a flared skirt with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0312",
+  "reason": "background not plain white (mean 221, std 44)",
+  "prompt": "e-commerce product photo of a sleeveless mauve and white gingham check denim midi tiered ruffle dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0313",
+  "reason": "looks like 'a photo of a shirt, trousers or a skirt' (0.49)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve royal blue textured rayon ankle-length button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0315",
+  "reason": "background not plain white (mean 192, std 27)",
+  "prompt": "e-commerce product photo of a short-sleeved plain grey cotton midi slip dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0316",
+  "reason": "background not plain white (mean 174, std 54)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved rose pink floral print cotton ankle-length peplum dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0317",
+  "reason": "background not plain white (mean 191, std 54)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved coral block print satin knee-length skater dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0320",
+  "reason": "background not plain white (mean 199, std 24)",
+  "prompt": "e-commerce product photo of a sleeveless mauve block print jersey knit ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0321",
+  "reason": "background not plain white (mean 196, std 64)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved sky blue floral print satin ankle-length sheath dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0322",
+  "reason": "background not plain white (mean 210, std 65)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve red paisley print rayon knee-length smocked sundress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0323",
+  "reason": "background not plain white (mean 213, std 21)",
+  "prompt": "e-commerce product photo of a short-sleeved plain magenta velvet flowing maxi dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0324",
+  "reason": "background not plain white (mean 192, std 70)",
+  "prompt": "e-commerce product photo of a long-sleeved burgundy and white striped denim knee-length wrap dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0326",
+  "reason": "background not plain white (mean 160, std 37)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve off-white textured georgette ankle-length fit and flare dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0327",
+  "reason": "background not plain white (mean 202, std 65)",
+  "prompt": "e-commerce product photo of a short-sleeved teal embroidered linen knee-length peplum dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0328",
+  "reason": "background not plain white (mean 231, std 47)",
+  "prompt": "product photo of a short-sleeved maroon and white gingham check crepe midi shift dress with a square neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0329",
+  "reason": "background not plain white (mean 189, std 65)",
+  "prompt": "e-commerce product photo of a long-sleeved orange polka dot chiffon ankle-length skater dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0331",
+  "reason": "background not plain white (mean 215, std 38)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve beige embroidered georgette ankle-length slip dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0332",
+  "reason": "background not plain white (mean 205, std 67)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve royal blue block print cotton knee-length bodycon dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0337",
+  "reason": "background not plain white (mean 201, std 63)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve plain rose pink rayon ankle-length tiered ruffle dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0338",
+  "reason": "background not plain white (mean 161, std 25)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved navy blue textured satin knee-length skater dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0340",
+  "reason": "background not plain white (mean 196, std 69)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve purple geometric print cotton midi fit and flare dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0341",
+  "reason": "background not plain white (mean 196, std 61)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved green geometric print linen flowing maxi dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0342",
+  "reason": "background not plain white (mean 210, std 43)",
+  "prompt": "e-commerce product photo of a short-sleeved bottle green abstract print georgette knee-length anarkali gown with a flared skirt with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0343",
+  "reason": "background not plain white (mean 198, std 44)",
+  "prompt": "e-commerce product photo of a sleeveless olive green textured velvet midi peplum dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0346",
+  "reason": "background not plain white (mean 181, std 42)",
+  "prompt": "e-commerce product photo of a sleeveless blue and white gingham check denim midi smocked sundress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0348",
+  "reason": "background not plain white (mean 194, std 29)",
+  "prompt": "e-commerce product photo of a short-sleeved blue paisley print satin midi bodycon dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0349",
+  "reason": "background not plain white (mean 171, std 78)",
+  "prompt": "e-commerce product photo of a long-sleeved royal blue embroidered jersey knit ankle-length wrap dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0350",
+  "reason": "background not plain white (mean 193, std 67)",
+  "prompt": "e-commerce product photo of a sleeveless yellow paisley print velvet knee-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0352",
+  "reason": "background not plain white (mean 174, std 26)",
+  "prompt": "e-commerce product photo of a sleeveless mauve abstract print crepe ankle-length wrap dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0353",
+  "reason": "background not plain white (mean 153, std 50)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved orange and white gingham check denim knee-length bodycon dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0354",
+  "reason": "background not plain white (mean 185, std 55)",
+  "prompt": "e-commerce product photo of a long-sleeved mustard yellow and white striped cotton midi anarkali gown with a flared skirt with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0356",
+  "reason": "background not plain white (mean 203, std 70)",
+  "prompt": "e-commerce product photo of a sleeveless olive green textured satin knee-length tiered ruffle dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0358",
+  "reason": "background not plain white (mean 232, std 40)",
+  "prompt": "product photo of a three-quarter sleeve rose pink floral print linen midi smocked sundress with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0361",
+  "reason": "background not plain white (mean 183, std 29)",
+  "prompt": "e-commerce flat lay photo of a sleeveless plain mint green cotton ankle-length peplum dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0362",
+  "reason": "background not plain white (mean 185, std 41)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve teal embroidered chiffon midi skater dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0363",
+  "reason": "background not plain white (mean 229, std 37)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved green floral print jersey knit ankle-length shift dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0364",
+  "reason": "background not plain white (mean 208, std 40)",
+  "prompt": "product photo of a three-quarter sleeve white polka dot linen knee-length button-down shirt dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0365",
+  "reason": "background not plain white (mean 203, std 54)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved coral geometric print denim midi fit and flare dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0367",
+  "reason": "background not plain white (mean 191, std 32)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve bottle green and white gingham check satin ankle-length kaftan dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0369",
+  "reason": "background not plain white (mean 161, std 58)",
+  "prompt": "e-commerce product photo of a long-sleeved plain purple rayon ankle-length anarkali gown with a flared skirt with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0370",
+  "reason": "background not plain white (mean 226, std 34)",
+  "prompt": "e-commerce product photo of a short-sleeved maroon block print crepe knee-length bodycon dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0372",
+  "reason": "background not plain white (mean 169, std 17)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved red and white striped linen midi smocked sundress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0373",
+  "reason": "background not plain white (mean 239, std 32)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve pastel pink abstract print jersey knit knee-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0376",
+  "reason": "background not plain white (mean 203, std 43)",
+  "prompt": "e-commerce flat lay photo of a sleeveless beige and navy blue striped georgette knee-length wrap dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0378",
+  "reason": "background not plain white (mean 215, std 57)",
+  "prompt": "e-commerce product photo of a short-sleeved black paisley print chiffon midi skater dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0379",
+  "reason": "background not plain white (mean 166, std 56)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve royal blue textured velvet knee-length fit and flare dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0380",
+  "reason": "background not plain white (mean 204, std 34)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved mauve and white gingham check wool knit ankle-length knitted sweater dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0382",
+  "reason": "background not plain white (mean 183, std 29)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved red block print satin midi tiered ruffle dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0384",
+  "reason": "background not plain white (mean 162, std 29)",
+  "prompt": "e-commerce product photo of a sleeveless rose pink polka dot cotton flowing maxi dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0386",
+  "reason": "background not plain white (mean 238, std 27)",
+  "prompt": "e-commerce product photo of a long-sleeved blue and white gingham check rayon midi sheath dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0389",
+  "reason": "background not plain white (mean 197, std 33)",
+  "prompt": "product photo of a short-sleeved yellow embroidered crepe ankle-length button-down shirt dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0390",
+  "reason": "background not plain white (mean 223, std 53)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve lavender abstract print cotton midi skater dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0391",
+  "reason": "background not plain white (mean 167, std 70)",
+  "prompt": "product photo of a sleeveless teal paisley print rayon ankle-length anarkali gown with a flared skirt with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0400",
+  "reason": "background not plain white (mean 197, std 52)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve off-white paisley print linen ankle-length skater dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0401",
+  "reason": "background not plain white (mean 167, std 41)",
+  "prompt": "e-commerce flat lay photo of a sleeveless beige and navy blue gingham check satin midi bodycon dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0402",
+  "reason": "background not plain white (mean 194, std 59)",
+  "prompt": "e-commerce product photo of a short-sleeved olive green floral print jersey knit midi wrap dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0403",
+  "reason": "background not plain white (mean 200, std 59)",
+  "prompt": "product photo of a long-sleeved coral geometric print cotton knee-length smocked sundress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0405",
+  "reason": "background not plain white (mean 171, std 66)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved maroon textured georgette midi A-line dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0409",
+  "reason": "background not plain white (mean 228, std 40)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved magenta polka dot chiffon ankle-length fit and flare dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0411",
+  "reason": "background not plain white (mean 226, std 43)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve green and white gingham check crepe knee-length kaftan dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0414",
+  "reason": "background not plain white (mean 174, std 36)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve brown block print georgette ankle-length anarkali gown with a flared skirt with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0415",
+  "reason": "background not plain white (mean 120, std 51)",
+  "prompt": "e-commerce flat lay photo of a sleeveless orange textured velvet knee-length button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0417",
+  "reason": "background not plain white (mean 177, std 59)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved peach and navy blue striped linen ankle-length sheath dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0418",
+  "reason": "background not plain white (mean 223, std 27)",
+  "prompt": "product photo of a short-sleeved mint green abstract print cotton midi bodycon dress with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0419",
+  "reason": "background not plain white (mean 174, std 54)",
+  "prompt": "e-commerce flat lay photo of a sleeveless royal blue and white striped denim knee-length tiered ruffle dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0421",
+  "reason": "background not plain white (mean 183, std 16)",
+  "prompt": "e-commerce product photo of a sleeveless bottle green and white gingham check denim knee-length skater dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0422",
+  "reason": "background not plain white (mean 152, std 51)",
+  "prompt": "e-commerce product photo of a short-sleeved grey floral print satin ankle-length anarkali gown with a flared skirt with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0423",
+  "reason": "background not plain white (mean 234, std 34)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve plain mauve crepe ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0425",
+  "reason": "background not plain white (mean 166, std 85)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve maroon geometric print jersey knit knee-length peplum dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0426",
+  "reason": "background not plain white (mean 223, std 33)",
+  "prompt": "e-commerce product photo of a short-sleeved off-white textured linen midi fit and flare dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0427",
+  "reason": "background not plain white (mean 218, std 42)",
+  "prompt": "product photo of a sleeveless coral block print chiffon ankle-length kaftan dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0428",
+  "reason": "background not plain white (mean 178, std 36)",
+  "prompt": "product photo of a sleeveless purple embroidered rayon knee-length shift dress with a boat neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0429",
+  "reason": "background not plain white (mean 176, std 65)",
+  "prompt": "e-commerce product photo of a long-sleeved sky blue and navy blue gingham check georgette midi smocked sundress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0431",
+  "reason": "background not plain white (mean 209, std 25)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve lavender abstract print denim ankle-length A-line dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0432",
+  "reason": "background not plain white (mean 200, std 61)",
+  "prompt": "product photo of a sleeveless beige and navy blue striped satin knee-length skater dress with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0433",
+  "reason": "background not plain white (mean 159, std 81)",
+  "prompt": "e-commerce product photo of a long-sleeved navy blue paisley print linen midi sheath dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0434",
+  "reason": "background not plain white (mean 170, std 41)",
+  "prompt": "product photo of a three-quarter sleeve teal block print jersey knit ankle-length fit and flare dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0436",
+  "reason": "background not plain white (mean 207, std 63)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved green geometric print georgette midi slip dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0437",
+  "reason": "background not plain white (mean 194, std 31)",
+  "prompt": "product photo of a sleeveless yellow embroidered cotton knee-length smocked sundress with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0438",
+  "reason": "background not plain white (mean 231, std 41)",
+  "prompt": "e-commerce product photo of a short-sleeved maroon polka dot rayon midi anarkali gown with a flared skirt with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0439",
+  "reason": "background not plain white (mean 185, std 56)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve plain orange crepe ankle-length A-line dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0440",
+  "reason": "background not plain white (mean 184, std 79)",
+  "prompt": "e-commerce product photo of a sleeveless magenta paisley print crepe knee-length kaftan dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0441",
+  "reason": "background not plain white (mean 138, std 63)",
+  "prompt": "product photo of a short-sleeved navy blue abstract print satin knee-length button-down shirt dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0444",
+  "reason": "background not plain white (mean 160, std 40)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved rose pink polka dot velvet knee-length bodycon dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0447",
+  "reason": "background not plain white (mean 175, std 34)",
+  "prompt": "product photo of a three-quarter sleeve off-white block print georgette ankle-length wrap dress with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0450",
+  "reason": "background not plain white (mean 213, std 51)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve teal floral print rayon midi fit and flare dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0453",
+  "reason": "background not plain white (mean 172, std 43)",
+  "prompt": "e-commerce flat lay photo of a sleeveless red and white striped linen knee-length wrap dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0454",
+  "reason": "background not plain white (mean 148, std 25)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved bottle green textured georgette midi anarkali gown with a flared skirt with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0455",
+  "reason": "background not plain white (mean 182, std 50)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve beige abstract print jersey knit ankle-length kaftan dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0458",
+  "reason": "background not plain white (mean 201, std 47)",
+  "prompt": "product photo of a short-sleeved blue and white gingham check crepe knee-length bodycon dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0459",
+  "reason": "background not plain white (mean 197, std 48)",
+  "prompt": "e-commerce product photo of a sleeveless plain mint green cotton ankle-length button-down shirt dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0460",
+  "reason": "background not plain white (mean 181, std 19)",
+  "prompt": "e-commerce product photo of a short-sleeved sky blue polka dot chiffon knee-length tiered ruffle dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0463",
+  "reason": "background not plain white (mean 169, std 57)",
+  "prompt": "e-commerce product photo of a sleeveless coral floral print rayon midi sheath dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0466",
+  "reason": "background not plain white (mean 181, std 30)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve plain lavender crepe flowing maxi dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0468",
+  "reason": "background not plain white (mean 152, std 19)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved beige textured wool knit ankle-length knitted sweater dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0469",
+  "reason": "background not plain white (mean 216, std 42)",
+  "prompt": "e-commerce product photo of a sleeveless mauve and white striped georgette knee-length A-line dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0470",
+  "reason": "background not plain white (mean 190, std 26)",
+  "prompt": "product photo of a short-sleeved purple abstract print chiffon midi slip dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0471",
+  "reason": "background not plain white (mean 172, std 61)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve brown textured georgette knee-length button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0472",
+  "reason": "background not plain white (mean 170, std 64)",
+  "prompt": "e-commerce flat lay photo of a sleeveless royal blue and white gingham check denim midi wrap dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0473",
+  "reason": "background not plain white (mean 161, std 64)",
+  "prompt": "e-commerce product photo of a long-sleeved olive green embroidered cotton ankle-length shift dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0474",
+  "reason": "background not plain white (mean 214, std 62)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve plain bottle green linen knee-length fit and flare dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0475",
+  "reason": "background not plain white (mean 189, std 61)",
+  "prompt": "product photo of a short-sleeved mint green floral print jersey knit ankle-length sheath dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0476",
+  "reason": "background not plain white (mean 200, std 31)",
+  "prompt": "e-commerce product photo of a sleeveless orange polka dot crepe midi anarkali gown with a flared skirt with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0477",
+  "reason": "background not plain white (mean 156, std 76)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved green block print velvet ankle-length kaftan dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0479",
+  "reason": "background not plain white (mean 185, std 69)",
+  "prompt": "product photo of a three-quarter sleeve sky blue and navy blue striped rayon knee-length peplum dress with a mandarin collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0481",
+  "reason": "background not plain white (mean 197, std 78)",
+  "prompt": "e-commerce product photo of a long-sleeved red paisley print satin midi tiered ruffle dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0484",
+  "reason": "background not plain white (mean 196, std 27)",
+  "prompt": "e-commerce product photo of a sleeveless coral abstract print linen knee-length bodycon dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0485",
+  "reason": "background not plain white (mean 225, std 28)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve magenta and white gingham check cotton midi slip dress with a v-neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0486",
+  "reason": "background not plain white (mean 170, std 16)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved rose pink polka dot jersey knit knee-length shift dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0488",
+  "reason": "background not plain white (mean 179, std 40)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved mustard yellow block print rayon ankle-length kaftan dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0489",
+  "reason": "background not plain white (mean 190, std 33)",
+  "prompt": "e-commerce product photo of a long-sleeved white paisley print velvet ankle-length A-line dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0490",
+  "reason": "background not plain white (mean 177, std 41)",
+  "prompt": "product photo of a sleeveless teal geometric print crepe midi skater dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0491",
+  "reason": "background not plain white (mean 213, std 34)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve off-white textured rayon knee-length sheath dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0492",
+  "reason": "background not plain white (mean 178, std 49)",
+  "prompt": "product photo of a short-sleeved yellow embroidered satin midi smocked sundress with a boat neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0493",
+  "reason": "background not plain white (mean 206, std 49)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved lavender and navy blue gingham check chiffon ankle-length peplum dress with a round neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0494",
+  "reason": "background not plain white (mean 209, std 28)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve plain off-white chiffon knee-length fit and flare dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0495",
+  "reason": "background not plain white (mean 176, std 27)",
+  "prompt": "e-commerce flat lay photo of a sleeveless red floral print cotton ankle-length anarkali gown with a flared skirt with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0497",
+  "reason": "background not plain white (mean 227, std 29)",
+  "prompt": "e-commerce product photo of a short-sleeved navy blue geometric print jersey knit knee-length tiered ruffle dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0498",
+  "reason": "background not plain white (mean 153, std 33)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve plain bottle green linen ankle-length slip dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0499",
+  "reason": "background not plain white (mean 174, std 49)",
+  "prompt": "e-commerce flat lay photo of a long-sleeved mauve polka dot georgette midi button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0500",
+  "reason": "background not plain white (mean 226, std 48)",
+  "prompt": "e-commerce product photo of a long-sleeved black and white striped chiffon knee-length anarkali gown with a flared skirt with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0504",
+  "reason": "background not plain white (mean 206, std 40)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve sky blue embroidered wool knit knee-length knitted sweater dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0505",
+  "reason": "background not plain white (mean 161, std 88)",
+  "prompt": "e-commerce product photo of a short-sleeved brown paisley print velvet midi smocked sundress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0506",
+  "reason": "background not plain white (mean 198, std 19)",
+  "prompt": "e-commerce product photo of a sleeveless royal blue geometric print jersey knit ankle-length bodycon dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0508",
+  "reason": "background not plain white (mean 191, std 40)",
+  "prompt": "product photo of a short-sleeved yellow block print rayon ankle-length fit and flare dress with a shirt collar on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0509",
+  "reason": "background not plain white (mean 202, std 35)",
+  "prompt": "product photo of a three-quarter sleeve white abstract print crepe midi wrap dress with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0510",
+  "reason": "background not plain white (mean 178, std 72)",
+  "prompt": "e-commerce flat lay photo of a sleeveless orange floral print velvet midi A-line dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0512",
+  "reason": "background not plain white (mean 152, std 28)",
+  "prompt": "product photo of a three-quarter sleeve plain olive green rayon knee-length anarkali gown with a flared skirt with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0514",
+  "reason": "background not plain white (mean 208, std 42)",
+  "prompt": "e-commerce flat lay photo of a sleeveless purple paisley print crepe flowing maxi dress with a square neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0515",
+  "reason": "background not plain white (mean 167, std 38)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved maroon polka dot satin knee-length peplum dress with a v-neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0516",
+  "reason": "background not plain white (mean 223, std 45)",
+  "prompt": "e-commerce product photo of a sleeveless beige and navy blue striped jersey knit knee-length tiered ruffle dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0519",
+  "reason": "background not plain white (mean 162, std 31)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved rose pink and white striped cotton ankle-length skater dress with a boat neck, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0520",
+  "reason": "background not plain white (mean 173, std 66)",
+  "prompt": "e-commerce product photo of a long-sleeved mustard yellow paisley print rayon knee-length kaftan dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0521",
+  "reason": "background not plain white (mean 154, std 48)",
+  "prompt": "e-commerce flat lay photo of a short-sleeved plain peach velvet midi button-down shirt dress with a shirt collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0522",
+  "reason": "background not plain white (mean 232, std 47)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve mustard yellow abstract print crepe midi A-line dress with a mandarin collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0523",
+  "reason": "background not plain white (mean 217, std 26)",
+  "prompt": "e-commerce product photo of a sleeveless navy blue block print linen ankle-length fit and flare dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0527",
+  "reason": "background not plain white (mean 194, std 37)",
+  "prompt": "product photo of a three-quarter sleeve mint green polka dot georgette knee-length smocked sundress with a round neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0528",
+  "reason": "background not plain white (mean 189, std 53)",
+  "prompt": "e-commerce flat lay photo of a three-quarter sleeve orange geometric print cotton knee-length slip dress with a mandarin collar, laid flat, top-down view, full dress visible, pure white background, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0529",
+  "reason": "background not plain white (mean 164, std 43)",
+  "prompt": "product photo of a sleeveless off-white paisley print chiffon ankle-length skater dress with a v-neck on a headless white dress form, plain white background, front view, full dress visible, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0531",
+  "reason": "background not plain white (mean 244, std 28)",
+  "prompt": "e-commerce product photo of a three-quarter sleeve plain mauve velvet midi wrap dress with a round neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0533",
+  "reason": "background not plain white (mean 192, std 50)",
+  "prompt": "e-commerce product photo of a sleeveless blue block print chiffon knee-length shift dress with a boat neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0535",
+  "reason": "background not plain white (mean 199, std 58)",
+  "prompt": "e-commerce product photo of a short-sleeved grey floral print linen midi bodycon dress with a shirt collar, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ },
+ {
+  "image": "dress-0538",
+  "reason": "background not plain white (mean 232, std 40)",
+  "prompt": "e-commerce product photo of a long-sleeved pastel pink and navy blue gingham check cotton knee-length kaftan dress with a square neck, invisible ghost mannequin, front view, full dress visible, pure white background, studio lighting, photorealistic, sharp fabric detail"
+ }
+]

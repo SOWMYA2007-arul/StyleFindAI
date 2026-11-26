@@ -1,0 +1,7 @@
+{
+  "name": "stylefind-ui-tests",
+  "private": true,
+  "type": "module",
+  "scripts": { "ui": "node ui-smoke.mjs" },
+  "devDependencies": { "playwright": "^1.50.0" }
+}

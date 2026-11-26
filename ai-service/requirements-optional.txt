@@ -1,0 +1,23 @@
+# Optional heavy extras - install only after the baseline search works.
+# None of them is needed for the default setup. See docs/SEGMENTATION.md for what each one does.
+#
+# Ultralytics YOLO: person masks (yolo11n-seg.pt, COCO) and clothing detectors (your own clothing weights).
+# LICENCE: AGPL-3.0 (code and official weights). COCO weights cannot detect garments.
+ultralytics>=8.3
+#
+# MediaPipe pose (only used on photos of people). Code Apache-2.0; read the model card of the .task file.
+#   pip install mediapipe
+#
+# SAM 2 boundary refinement (Apache-2.0). GPU recommended. Install from GitHub:
+#   pip install "git+https://github.com/facebookresearch/sam2.git"
+# then download sam2.1_hiera_tiny.pt and set ENABLE_SAM2=true + SAM2_CHECKPOINT in .env
+#
+# SegFormer human parser: no extra package (uses transformers + torch from requirements.txt).
+#
+# For COCO RLE masks in scripts/evaluate_segmentation.py --format coco (polygons work without it):
+#   pip install pycocotools
+#
+# Qwen2.5-VL attribute extraction (~7.5 GB RAM in fp32 on CPU, slow; GPU/Colab recommended).
+# NOTE: Qwen2.5-VL-3B-Instruct uses the "Qwen Research" licence (non-commercial).
+qwen-vl-utils>=0.0.8
+accelerate>=0.33

@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #ffffff;
+  --color-stone: #f1eeea;
+  --color-stone-deep: #e4dfd8;
+  --color-ink: #1a1a1f;
+  --color-muted: #5d5a57;
+  --color-indigo: #1f2a55;
+  --color-indigo-soft: #e6e8f1;
+  --color-rani: #b3245f;
+  --color-rani-soft: #f8e6ee;
+  --color-sage: #5e7a64;
+  --color-sage-soft: #e7efe8;
+  --color-danger: #a3271f;
+
+  --font-display: "Bodoni Moda", "Didot", "Times New Roman", serif;
+  --font-sans: "Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--color-ink);
+    background: var(--color-paper);
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-indigo);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+  }
+}
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-50;
+}
+@utility btn-primary {
+  @apply btn bg-indigo text-white hover:bg-[#2b3973];
+}
+@utility btn-ghost {
+  @apply btn border border-stone-deep bg-white text-ink hover:border-indigo hover:text-indigo;
+}
+@utility btn-danger {
+  @apply btn bg-danger text-white hover:bg-[#87201a];
+}
+@utility field {
+  @apply w-full rounded-lg border border-stone-deep bg-white px-3 py-2 text-sm outline-none focus:border-indigo focus:ring-2 focus:ring-indigo-soft;
+}
+@utility label {
+  @apply mb-1 block text-sm font-medium text-ink;
+}
+@utility container-page {
+  @apply mx-auto w-full max-w-7xl px-5 sm:px-8;
+}
+
+/* The single orchestrated moment: results arrive in sequence after a search. */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+.rise { animation: rise 0.45s ease-out both; }

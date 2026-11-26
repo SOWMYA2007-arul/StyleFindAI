@@ -1,0 +1,23 @@
+# Runs PostgreSQL 16 with the pgvector extension already installed.
+# Usage (PowerShell, from the project folder):  docker compose up -d
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: stylefind-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-stylefind}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change_me_postgres}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - stylefind_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-stylefind}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  stylefind_pgdata:
