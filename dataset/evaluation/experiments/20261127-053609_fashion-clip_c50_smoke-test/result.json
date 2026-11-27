@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "id": "20261127-053609_fashion-clip_c50_smoke-test",
+    "generated": "2026-11-27 05:36:09 UTC",
+    "tag": "smoke-test",
+    "model_key": "fashion-clip",
+    "model_version": "hf:patrickjohncyh/fashion-clip",
+    "candidates": 50,
+    "ef_search": 100,
+    "ef_search_mode": "auto",
+    "crop": false,
+    "multicrop": "off",
+    "weights": {
+      "visual": 0.65,
+      "colour": 0.15,
+      "pattern": 0.1,
+      "attribute": 0.1
+    },
+    "split": "val",
+    "dataset": {
+      "active_products": 215,
+      "hash": "41550197c441"
+    },
+    "sources": [
+      "AI-generated dresses (StyleFind demo)"
+    ],
+    "catalogue_csv_version": "9d608c4b0624",
+    "n_queries": 10,
+    "queries_file": "dataset/evaluation/queries_generated.csv",
+    "query_set_version": "af91c1598d62",
+    "derived_queries": true,
+    "hardware": {
+      "platform": "Windows-10-10.0.26300-SP0",
+      "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+      "cpu_count": 8,
+      "torch_threads": 8,
+      "ram_gb": 15.7,
+      "device": "cpu",
+      "python": "3.11.9"
+    },
+    "pgvector": "0.8.7",
+    "rss_mb": 1109.9,
+    "stable_order": true
+  },
+  "overall": {
+    "n": 10,
+    "visual": {
+      "R@1": 1.0,
+      "R@5": 1.0,
+      "R@10": 1.0,
+      "mAP": 1.0
+    },
+    "hybrid": {
+      "R@1": 1.0,
+      "R@5": 1.0,
+      "R@10": 1.0,
+      "mAP": 1.0
+    },
+    "candidate_recall": 1.0,
+    "category_P@10": 1.0,
+    "colour_C@10": 0.26999999999999996,
+    "pattern_C@10": 0.0,
+    "exact_labelled": 0,
+    "exact_precision": null,
+    "exact_recall": 0.0,
+    "latency_ms_p50": 165.58905015699565,
+    "latency_ms_p95": 484.1372900642449,
+    "vector_search_ms_p50": 8.333800011314452,
+    "exact_fallbacks": 0
+  },
+  "by_transform": {
+    "angle": {
+      "n": 2,
+      "visual": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "hybrid": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "candidate_recall": 1.0,
+      "category_P@10": 1.0,
+      "colour_C@10": 0.25,
+      "pattern_C@10": 0.0,
+      "exact_labelled": 0,
+      "exact_precision": null,
+      "exact_recall": 0.0,
+      "latency_ms_p50": 172.56514984183013,
+      "latency_ms_p95": 173.9705448038876,
+      "vector_search_ms_p50": 8.328000083565712,
+      "exact_fallbacks": 0
+    },
+    "background": {
+      "n": 2,
+      "visual": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "hybrid": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "candidate_recall": 1.0,
+      "category_P@10": 1.0,
+      "colour_C@10": 0.25,
+      "pattern_C@10": 0.0,
+      "exact_labelled": 0,
+      "exact_precision": null,
+      "exact_recall": 0.0,
+      "latency_ms_p50": 450.23825007956475,
+      "latency_ms_p95": 707.4808850535192,
+      "vector_search_ms_p50": 34.93910003453493,
+      "exact_fallbacks": 0
+    },
+    "clutter": {
+      "n": 2,
+      "visual": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "hybrid": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "candidate_recall": 1.0,
+      "category_P@10": 1.0,
+      "colour_C@10": 0.30000000000000004,
+      "pattern_C@10": 0.0,
+      "exact_labelled": 0,
+      "exact_precision": null,
+      "exact_recall": 0.0,
+      "latency_ms_p50": 147.4770000204444,
+      "latency_ms_p95": 149.74752012640238,
+      "vector_search_ms_p50": 8.290700032375753,
+      "exact_fallbacks": 0
+    },
+    "lighting": {
+      "n": 2,
+      "visual": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "hybrid": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "candidate_recall": 1.0,
+      "category_P@10": 1.0,
+      "colour_C@10": 0.25,
+      "pattern_C@10": 0.0,
+      "exact_labelled": 0,
+      "exact_precision": null,
+      "exact_recall": 0.0,
+      "latency_ms_p50": 160.41689994744956,
+      "latency_ms_p95": 174.64653006754816,
+      "vector_search_ms_p50": 8.326450013555586,
+      "exact_fallbacks": 0
+    },
+    "partial": {
+      "n": 2,
+      "visual": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "hybrid": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "candidate_recall": 1.0,
+      "category_P@10": 1.0,
+      "colour_C@10": 0.3,
+      "pattern_C@10": 0.0,
+      "exact_labelled": 0,
+      "exact_precision": null,
+      "exact_recall": 0.0,
+      "latency_ms_p50": 165.46340007334948,
+      "latency_ms_p95": 166.63484019227326,
+      "vector_search_ms_p50": 8.438899996690452,
+      "exact_fallbacks": 0
+    }
+  },
+  "by_split": {
+    "val": {
+      "n": 10,
+      "visual": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "hybrid": {
+        "R@1": 1.0,
+        "R@5": 1.0,
+        "R@10": 1.0,
+        "mAP": 1.0
+      },
+      "candidate_recall": 1.0,
+      "category_P@10": 1.0,
+      "colour_C@10": 0.26999999999999996,
+      "pattern_C@10": 0.0,
+      "exact_labelled": 0,
+      "exact_precision": null,
+      "exact_recall": 0.0,
+      "latency_ms_p50": 165.58905015699565,
+      "latency_ms_p95": 484.1372900642449,
+      "vector_search_ms_p50": 8.333800011314452,
+      "exact_fallbacks": 0
+    }
+  },
+  "per_query": [
+    {
+      "query": "queries_generated/ai-dress-0138__background.jpg",
+      "transform": "background",
+      "split": "val",
+      "truth": "ai-dress-0138",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0138",
+      "top10": [
+        "ai-dress-0138",
+        "ai-dress-0112",
+        "ai-dress-0377",
+        "ai-dress-0043",
+        "ai-dress-0063",
+        "ai-dress-0291",
+        "ai-dress-0026",
+        "ai-dress-0127",
+        "ai-dress-0018",
+        "ai-dress-0335"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.1,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 736.0634000506252,
+      "vector_ms": 61.68100005015731,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0138__angle.jpg",
+      "transform": "angle",
+      "split": "val",
+      "truth": "ai-dress-0138",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0138",
+      "top10": [
+        "ai-dress-0138",
+        "ai-dress-0112",
+        "ai-dress-0291",
+        "ai-dress-0127",
+        "ai-dress-0345",
+        "ai-dress-0063",
+        "ai-dress-0377",
+        "ai-dress-0043",
+        "ai-dress-0265",
+        "ai-dress-0335"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.1,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 174.12669979967177,
+      "vector_ms": 8.317500120028853,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0138__partial.jpg",
+      "transform": "partial",
+      "split": "val",
+      "truth": "ai-dress-0138",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0138",
+      "top10": [
+        "ai-dress-0138",
+        "ai-dress-0112",
+        "ai-dress-0127",
+        "ai-dress-0063",
+        "ai-dress-0291",
+        "ai-dress-0377",
+        "ai-dress-0345",
+        "ai-dress-0018",
+        "ai-dress-0043",
+        "ai-dress-0206"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.1,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 164.16179994121194,
+      "vector_ms": 8.548700017854571,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0138__clutter.jpg",
+      "transform": "clutter",
+      "split": "val",
+      "truth": "ai-dress-0138",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0138",
+      "top10": [
+        "ai-dress-0138",
+        "ai-dress-0112",
+        "ai-dress-0291",
+        "ai-dress-0127",
+        "ai-dress-0345",
+        "ai-dress-0063",
+        "ai-dress-0043",
+        "ai-dress-0377",
+        "ai-dress-0393",
+        "ai-dress-0507"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.2,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 149.9998001381755,
+      "vector_ms": 8.1044000107795,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0138__lighting.jpg",
+      "transform": "lighting",
+      "split": "val",
+      "truth": "ai-dress-0138",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0138",
+      "top10": [
+        "ai-dress-0138",
+        "ai-dress-0112",
+        "ai-dress-0291",
+        "ai-dress-0063",
+        "ai-dress-0050",
+        "ai-dress-0127",
+        "ai-dress-0018",
+        "ai-dress-0043",
+        "ai-dress-0206",
+        "ai-dress-0330"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.1,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 176.22760008089244,
+      "vector_ms": 8.207299979403615,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0345__background.jpg",
+      "transform": "background",
+      "split": "val",
+      "truth": "ai-dress-0345",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0345",
+      "top10": [
+        "ai-dress-0345",
+        "ai-dress-0127",
+        "ai-dress-0184",
+        "ai-dress-0059",
+        "ai-dress-0396",
+        "ai-dress-0393",
+        "ai-dress-0012",
+        "ai-dress-0462",
+        "ai-dress-0507",
+        "ai-dress-0289"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.4,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 164.4131001085043,
+      "vector_ms": 8.197200018912554,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0345__angle.jpg",
+      "transform": "angle",
+      "split": "val",
+      "truth": "ai-dress-0345",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0345",
+      "top10": [
+        "ai-dress-0345",
+        "ai-dress-0127",
+        "ai-dress-0396",
+        "ai-dress-0138",
+        "ai-dress-0351",
+        "ai-dress-0184",
+        "ai-dress-0163",
+        "ai-dress-0059",
+        "ai-dress-0393",
+        "ai-dress-0461"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.4,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 171.0035998839885,
+      "vector_ms": 8.33850004710257,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0345__partial.jpg",
+      "transform": "partial",
+      "split": "val",
+      "truth": "ai-dress-0345",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0345",
+      "top10": [
+        "ai-dress-0345",
+        "ai-dress-0127",
+        "ai-dress-0396",
+        "ai-dress-0184",
+        "ai-dress-0351",
+        "ai-dress-0138",
+        "ai-dress-0262",
+        "ai-dress-0059",
+        "ai-dress-0163",
+        "ai-dress-0022"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.5,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 166.765000205487,
+      "vector_ms": 8.329099975526333,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0345__clutter.jpg",
+      "transform": "clutter",
+      "split": "val",
+      "truth": "ai-dress-0345",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0345",
+      "top10": [
+        "ai-dress-0345",
+        "ai-dress-0127",
+        "ai-dress-0138",
+        "ai-dress-0396",
+        "ai-dress-0184",
+        "ai-dress-0351",
+        "ai-dress-0163",
+        "ai-dress-0112",
+        "ai-dress-0393",
+        "ai-dress-0289"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.4,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 144.9541999027133,
+      "vector_ms": 8.477000053972006,
+      "retrieval_mode": "planner"
+    },
+    {
+      "query": "queries_generated/ai-dress-0345__lighting.jpg",
+      "transform": "lighting",
+      "split": "val",
+      "truth": "ai-dress-0345",
+      "visual_rank": 1,
+      "hybrid_rank": 1,
+      "top1": "ai-dress-0345",
+      "top10": [
+        "ai-dress-0345",
+        "ai-dress-0127",
+        "ai-dress-0396",
+        "ai-dress-0184",
+        "ai-dress-0138",
+        "ai-dress-0163",
+        "ai-dress-0393",
+        "ai-dress-0351",
+        "ai-dress-0063",
+        "ai-dress-0169"
+      ],
+      "cat_p10": 1.0,
+      "colour_c10": 0.4,
+      "pattern_c10": 0.0,
+      "exact_label": null,
+      "latency_ms": 144.6061998140067,
+      "vector_ms": 8.445600047707558,
+      "retrieval_mode": "planner"
+    }
+  ]
+}

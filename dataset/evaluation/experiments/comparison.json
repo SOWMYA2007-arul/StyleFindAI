@@ -1,0 +1,1002 @@
+{
+  "generated": "2026-11-27T07:40:53.942142+00:00",
+  "best_per_group": [
+    "20261127-053609_fashion-clip_c50_smoke-test"
+  ],
+  "experiments": [
+    {
+      "meta": {
+        "id": "20261127-053609_fashion-clip_c50_smoke-test",
+        "generated": "2026-11-27 05:36:09 UTC",
+        "tag": "smoke-test",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 10,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1109.9,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 10,
+        "visual": {
+          "R@1": 1.0,
+          "R@5": 1.0,
+          "R@10": 1.0,
+          "mAP": 1.0
+        },
+        "hybrid": {
+          "R@1": 1.0,
+          "R@5": 1.0,
+          "R@10": 1.0,
+          "mAP": 1.0
+        },
+        "candidate_recall": 1.0,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.26999999999999996,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 0,
+        "exact_precision": null,
+        "exact_recall": 0.0,
+        "latency_ms_p50": 165.58905015699565,
+        "latency_ms_p95": 484.1372900642449,
+        "vector_search_ms_p50": 8.333800011314452,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-053834_fashion-clip_c50_validation-baseline",
+        "generated": "2026-11-27 05:38:34 UTC",
+        "tag": "validation-baseline",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1121.0,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.977873638085148
+        },
+        "hybrid": {
+          "R@1": 0.9775700934579439,
+          "R@5": 0.983177570093458,
+          "R@10": 0.9869158878504672,
+          "mAP": 0.9809314231601919
+        },
+        "candidate_recall": 0.994392523364486,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2528971962616822,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 159.54050025902689,
+        "latency_ms_p95": 199.58386018406597,
+        "vector_search_ms_p50": 8.77099996432662,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-054825_fashion-clip_c100_candidate-comparison",
+        "generated": "2026-11-27 05:48:25 UTC",
+        "tag": "candidate-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 100,
+        "ef_search": 200,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1120.8,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.9779033072736959
+        },
+        "hybrid": {
+          "R@1": 0.9775700934579439,
+          "R@5": 0.983177570093458,
+          "R@10": 0.9850467289719627,
+          "mAP": 0.9807214884819518
+        },
+        "candidate_recall": 0.9962616822429906,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2530841121495327,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 142.6287000067532,
+        "latency_ms_p95": 167.3134598881006,
+        "vector_search_ms_p50": 7.900200085714459,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-054825_fashion-clip_c50_candidate-comparison",
+        "generated": "2026-11-27 05:48:25 UTC",
+        "tag": "candidate-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1120.8,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.977873638085148
+        },
+        "hybrid": {
+          "R@1": 0.9775700934579439,
+          "R@5": 0.983177570093458,
+          "R@10": 0.9869158878504672,
+          "mAP": 0.9809314231601919
+        },
+        "candidate_recall": 0.994392523364486,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2528971962616822,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 132.0034998934716,
+        "latency_ms_p95": 155.0594600616023,
+        "vector_search_ms_p50": 7.944399956613779,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-054826_fashion-clip_c200_candidate-comparison",
+        "generated": "2026-11-27 05:48:26 UTC",
+        "tag": "candidate-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 200,
+        "ef_search": 400,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1120.8,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.9779326922327292
+        },
+        "hybrid": {
+          "R@1": 0.9794392523364486,
+          "R@5": 0.9850467289719627,
+          "R@10": 0.9869158878504672,
+          "mAP": 0.9824731403198155
+        },
+        "candidate_recall": 1.0,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2536448598130841,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 161.65870008990169,
+        "latency_ms_p95": 190.73618985712523,
+        "vector_search_ms_p50": 8.056200109422207,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-055228_fashion-clip_c50_ef100_ef-comparison",
+        "generated": "2026-11-27 05:52:28 UTC",
+        "tag": "ef-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "fixed",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1117.3,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.977873638085148
+        },
+        "hybrid": {
+          "R@1": 0.9775700934579439,
+          "R@5": 0.983177570093458,
+          "R@10": 0.9869158878504672,
+          "mAP": 0.9809314231601919
+        },
+        "candidate_recall": 0.994392523364486,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2528971962616822,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 195.83929982036352,
+        "latency_ms_p95": 290.8285700017586,
+        "vector_search_ms_p50": 8.10740003362298,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-055228_fashion-clip_c50_ef200_ef-comparison",
+        "generated": "2026-11-27 05:52:28 UTC",
+        "tag": "ef-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 200,
+        "ef_search_mode": "fixed",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1117.3,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.977873638085148
+        },
+        "hybrid": {
+          "R@1": 0.9775700934579439,
+          "R@5": 0.983177570093458,
+          "R@10": 0.9869158878504672,
+          "mAP": 0.9809314231601919
+        },
+        "candidate_recall": 0.994392523364486,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2528971962616822,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 196.2917000055313,
+        "latency_ms_p95": 292.7026299992576,
+        "vector_search_ms_p50": 8.025999879464507,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-055228_fashion-clip_c50_ef40_ef-comparison",
+        "generated": "2026-11-27 05:52:28 UTC",
+        "tag": "ef-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 40,
+        "ef_search_mode": "fixed",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1117.3,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.977873638085148
+        },
+        "hybrid": {
+          "R@1": 0.9775700934579439,
+          "R@5": 0.983177570093458,
+          "R@10": 0.9869158878504672,
+          "mAP": 0.9809314231601919
+        },
+        "candidate_recall": 0.994392523364486,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2528971962616822,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 196.00410014390945,
+        "latency_ms_p95": 291.8765501352027,
+        "vector_search_ms_p50": 8.312300080433488,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-055615_fashion-clip_c50_crop-comparison",
+        "generated": "2026-11-27 05:56:15 UTC",
+        "tag": "crop-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "auto",
+        "crop": true,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1282.1,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.8242990654205608,
+          "R@5": 0.8766355140186916,
+          "R@10": 0.902803738317757,
+          "mAP": 0.8512306722968404
+        },
+        "hybrid": {
+          "R@1": 0.8485981308411215,
+          "R@5": 0.9102803738317757,
+          "R@10": 0.9289719626168225,
+          "mAP": 0.8744703195229452
+        },
+        "candidate_recall": 0.9514018691588785,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.2642990654205607,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 2,
+        "exact_precision": 1.0,
+        "exact_recall": 0.003738317757009346,
+        "latency_ms_p50": 221.49070003069937,
+        "latency_ms_p95": 378.77183991950005,
+        "vector_search_ms_p50": 7.868299959227443,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-060140_fashion-clip_c50_multicrop-max-score",
+        "generated": "2026-11-27 06:01:40 UTC",
+        "tag": "multicrop-max-score",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "max_score",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "val",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 535,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1132.2,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 535,
+        "visual": {
+          "R@1": 0.9738317757009346,
+          "R@5": 0.9813084112149533,
+          "R@10": 0.983177570093458,
+          "mAP": 0.977873638085148
+        },
+        "hybrid": {
+          "R@1": 0.9775700934579439,
+          "R@5": 0.983177570093458,
+          "R@10": 0.9869158878504672,
+          "mAP": 0.9809225224036275
+        },
+        "candidate_recall": 0.994392523364486,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.257196261682243,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 10,
+        "exact_precision": 1.0,
+        "exact_recall": 0.018691588785046728,
+        "latency_ms_p50": 340.1406998746097,
+        "latency_ms_p95": 399.53830987215014,
+        "vector_search_ms_p50": 8.162899874150753,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-060946_fashion-clip_c50_final-test",
+        "generated": "2026-11-27 06:09:46 UTC",
+        "tag": "final-test",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "test",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 540,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1054.1,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 540,
+        "visual": {
+          "R@1": 0.9722222222222222,
+          "R@5": 0.9796296296296296,
+          "R@10": 0.9796296296296296,
+          "mAP": 0.9768948848953249
+        },
+        "hybrid": {
+          "R@1": 0.9814814814814815,
+          "R@5": 0.9888888888888889,
+          "R@10": 0.9944444444444445,
+          "mAP": 0.9851535295979741
+        },
+        "candidate_recall": 0.9962962962962963,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.21351851851851852,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 11,
+        "exact_precision": 1.0,
+        "exact_recall": 0.020370370370370372,
+        "latency_ms_p50": 168.7763500958681,
+        "latency_ms_p95": 214.2058851197361,
+        "vector_search_ms_p50": 7.917350041680038,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-062217_fashion-clip_c100_final-test-candidate-comparison",
+        "generated": "2026-11-27 06:22:17 UTC",
+        "tag": "final-test-candidate-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 100,
+        "ef_search": 200,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "test",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 540,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1122.0,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 540,
+        "visual": {
+          "R@1": 0.9722222222222222,
+          "R@5": 0.9796296296296296,
+          "R@10": 0.9796296296296296,
+          "mAP": 0.9769147972808288
+        },
+        "hybrid": {
+          "R@1": 0.9796296296296296,
+          "R@5": 0.9888888888888889,
+          "R@10": 0.9907407407407407,
+          "mAP": 0.9839974700880684
+        },
+        "candidate_recall": 0.9981481481481481,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.21388888888888888,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 11,
+        "exact_precision": 1.0,
+        "exact_recall": 0.020370370370370372,
+        "latency_ms_p50": 130.56540011893958,
+        "latency_ms_p95": 159.2229900881648,
+        "vector_search_ms_p50": 7.869350025430322,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-062217_fashion-clip_c200_final-test-candidate-comparison",
+        "generated": "2026-11-27 06:22:17 UTC",
+        "tag": "final-test-candidate-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 200,
+        "ef_search": 400,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "test",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 540,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1122.0,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 540,
+        "visual": {
+          "R@1": 0.9722222222222222,
+          "R@5": 0.9796296296296296,
+          "R@10": 0.9796296296296296,
+          "mAP": 0.9769302293795942
+        },
+        "hybrid": {
+          "R@1": 0.9796296296296296,
+          "R@5": 0.9888888888888889,
+          "R@10": 0.9907407407407407,
+          "mAP": 0.9839197642510351
+        },
+        "candidate_recall": 1.0,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.21388888888888888,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 11,
+        "exact_precision": 1.0,
+        "exact_recall": 0.020370370370370372,
+        "latency_ms_p50": 148.94994988571852,
+        "latency_ms_p95": 187.8374550142325,
+        "vector_search_ms_p50": 8.021300076507032,
+        "exact_fallbacks": 0
+      }
+    },
+    {
+      "meta": {
+        "id": "20261127-062217_fashion-clip_c50_final-test-candidate-comparison",
+        "generated": "2026-11-27 06:22:17 UTC",
+        "tag": "final-test-candidate-comparison",
+        "model_key": "fashion-clip",
+        "model_version": "hf:patrickjohncyh/fashion-clip",
+        "candidates": 50,
+        "ef_search": 100,
+        "ef_search_mode": "auto",
+        "crop": false,
+        "multicrop": "off",
+        "weights": {
+          "visual": 0.65,
+          "colour": 0.15,
+          "pattern": 0.1,
+          "attribute": 0.1
+        },
+        "split": "test",
+        "dataset": {
+          "active_products": 215,
+          "hash": "41550197c441"
+        },
+        "sources": [
+          "AI-generated dresses (StyleFind demo)"
+        ],
+        "catalogue_csv_version": "9d608c4b0624",
+        "n_queries": 540,
+        "queries_file": "dataset/evaluation/queries_generated.csv",
+        "query_set_version": "af91c1598d62",
+        "derived_queries": true,
+        "hardware": {
+          "platform": "Windows-10-10.0.26300-SP0",
+          "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+          "cpu_count": 8,
+          "torch_threads": 8,
+          "ram_gb": 15.7,
+          "device": "cpu",
+          "python": "3.11.9"
+        },
+        "pgvector": "0.8.7",
+        "rss_mb": 1122.0,
+        "stable_order": true
+      },
+      "overall": {
+        "n": 540,
+        "visual": {
+          "R@1": 0.9722222222222222,
+          "R@5": 0.9796296296296296,
+          "R@10": 0.9796296296296296,
+          "mAP": 0.9768948848953249
+        },
+        "hybrid": {
+          "R@1": 0.9814814814814815,
+          "R@5": 0.9888888888888889,
+          "R@10": 0.9944444444444445,
+          "mAP": 0.9851535295979741
+        },
+        "candidate_recall": 0.9962962962962963,
+        "category_P@10": 1.0,
+        "colour_C@10": 0.21351851851851852,
+        "pattern_C@10": 0.0,
+        "exact_labelled": 11,
+        "exact_precision": 1.0,
+        "exact_recall": 0.020370370370370372,
+        "latency_ms_p50": 121.7318499693647,
+        "latency_ms_p95": 152.2814501193352,
+        "vector_search_ms_p50": 8.06419993750751,
+        "exact_fallbacks": 0
+      }
+    }
+  ]
+}
