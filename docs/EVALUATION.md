@@ -66,8 +66,8 @@ Both visual retrieval ranking and hybrid re-ranking are evaluated.
 | Recall@5 | Correct product appears within the first five results |
 | Recall@10 | Correct product appears within the first ten results |
 | mAP | Mean Average Precision; with one relevant product per query, AP is the reciprocal of its rank if retrieved |
-| p50 latency | Median query latency |
-| p95 latency | 95th-percentile query latency |
+| p50 (ms) | Median query latency |
+| p95 (ms) | 95th-percentile query latency |
 
 The evaluation script also records category, colour, pattern and exact-match metrics. These additional metrics require careful interpretation because some attribute labels are not independently verified.
 
